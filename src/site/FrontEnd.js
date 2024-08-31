@@ -19,7 +19,7 @@ function FrontEnd(){
     return(
         <>
             <Header/>
-            <Routes basename="/bestroofer">            
+            <Routes>            
                 <Route path="/" exact element={<HomePage />} />
                 <Route path="/about" element={<AboutUs />} />
                 <Route path="/services" element={<ServiceList />} />

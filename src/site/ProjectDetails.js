@@ -14,32 +14,32 @@ function ProjectDetails(){
                             <div className="row">
                                 <div className="col-4">
                                     <div className="project-img">
-                                        <img src="../images/project_gallery_img_1.jpg" alt="" height={285} width={360}/>
+                                        <img src="images/project_gallery_img_1.jpg" alt="" height={285} width={360}/>
                                     </div>
                                 </div>
                                 <div className="col-4">
                                     <div className="project-img">
-                                        <img src="../images/project_gallery_img_2.jpg" alt="" height={285} width={360}/>
+                                        <img src="images/project_gallery_img_2.jpg" alt="" height={285} width={360}/>
                                     </div>
                                 </div>
                                 <div className="col-4">
                                     <div className="project-img">
-                                        <img src="../images/project_gallery_img_3.jpg" alt="" height={285} width={360}/>
+                                        <img src="images/project_gallery_img_3.jpg" alt="" height={285} width={360}/>
                                     </div>
                                 </div>
                                 <div className="col-4">
                                     <div className="project-img">
-                                        <img src="../images/project_gallery_img_4.jpg" alt="" height={285} width={360}/>
+                                        <img src="images/project_gallery_img_4.jpg" alt="" height={285} width={360}/>
                                     </div>
                                 </div>
                                 <div className="col-4">
                                     <div className="project-img">
-                                        <img src="../images/project_gallery_img_5.jpg" alt="" height={285} width={360}/>
+                                        <img src="images/project_gallery_img_5.jpg" alt="" height={285} width={360}/>
                                     </div>
                                 </div>
                                 <div className="col-4">
                                     <div className="project-img">
-                                        <img src="../images/project_gallery_img_6.jpg" alt="" height={285} width={360}/>
+                                        <img src="images/project_gallery_img_6.jpg" alt="" height={285} width={360}/>
                                     </div>
                                 </div>
                             </div>
